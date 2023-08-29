@@ -12,16 +12,6 @@
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [ ] Arbeitspakete 1: zweite Zahl um 1 größer ist als die erste geworfene Zahl.
+- [ ] Arbeitspakete 1: ein zahl generator programieren, welche so funktioniert: zweite Zahl um 1 größer ist als die erste geworfene Zahl.
 - [ ] Arbeitspakete 2: es beinhaltet die gezielte Auseinandersetzung mit theoretischen Aspekten der Programmierung im Rahmen einer Wissensauffrischung(von freitag)
 - [ ] Arbeitspakete3 und 4 : ein keline projektbeginnen, und probieren was wir in die letzte 2 wochen gelernt haben zubenutzen.
-
-| Vorbereitung             | Eingabe | Erwartete Ausgabe |
-| ------------------------ | ------- | ----------------- |
-| Programm in VS gestartet | `Nico`  | `Hallo Nico`      |
-
-- [ ] ...
-- [ ] ...
-- [ ] ...
-
-✍️  Haken Sie am Ende die Arbeitspakete ab, die Sie erledigen konnten. Schreiben Sie ggf. eine kurze Erklärung, was gut geklappt hat oder warum etwas nicht erreicht werden konnte.
