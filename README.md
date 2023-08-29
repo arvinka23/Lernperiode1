@@ -12,6 +12,8 @@
 
 ✍️ Erstellen Sie jeweils am Ende einer Sitzung ein neues Kapitel, in welcher Sie 4 Arbeitspakete mit dazugehörigen Testfällen für die nächste Sitzung aufschreiben:
 
-- [X ] Arbeitspakete 1: ein zahl generator programieren, welche so funktioniert: zweite Zahl um 1 größer ist als die erste geworfene Zahl.
-- [X ] Arbeitspakete 2: es beinhaltet die gezielte Auseinandersetzung mit theoretischen Aspekten der Programmierung im Rahmen einer Wissensauffrischung(von freitag)
-- [X ] Arbeitspakete3 und 4 : ein keline projektbeginnen, und probieren was wir in die letzte 2 wochen gelernt haben zubenutzen.
+- [X] Arbeitspakete 1: ein zahl generator programieren, welche so funktioniert: zweite Zahl um 1 größer ist als die erste geworfene Zahl.
+- [X] Arbeitspakete 2: es beinhaltet die gezielte Auseinandersetzung mit theoretischen Aspekten der Programmierung im Rahmen einer Wissensauffrischung(von freitag)
+- [X] Arbeitspakete3 und 4 : ein keline projektbeginnen, und probieren was wir in die letzte 2 wochen gelernt haben zubenutzen.
+
+  Ich könnte diese Woche ein zahlgenerator programieren, welche 3 mal die zahlen fragte und wenn man es nicht antworten konnte, wird er es selber schreiben. wenn ich fragen hatte habe ich KI gefragt und dann notiert was mir nacher helfen kann.
