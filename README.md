@@ -27,3 +27,13 @@ Die Projekte, welche ich letzte woche begonnen habe soll diese woche fertg werde
 Arbeitspaket 1-4:
 
 Da ich mein vorheriges Projekt abgeschlossen habe, beginne ich ein neues Projekt. In diesem Projekt werde ich ein Wortspiel entwickeln, bei dem man raten muss, ob ein Buchstabe an der richtigen Stelle steht oder nicht.
+
+Ich habe dieses Projekt ein wenig unterschätzt. Anfangs schien es einfacher zu sein, aber je weiter ich mich in die Arbeit vertiefte, desto komplexer wurde es. Trotzdem habe ich es geschafft, das Projekt fertigzustellen, allerdings funktioniert es noch nicht einwandfrei. Derzeit erwartet das Programm die Eingabe des gesamten Wortes und gibt dann an, ob die Eingabe richtig oder falsch ist. In die nächste Wochen plane ich, das Programm weiter zu verbessern, um es benutzerfreundlicher und effizienter zu gestalten.(78)
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Arbeitspakete für 19.9.2023
+Arbeitspaket 1 und 2: Ich werde versuchen, das vorherige Projekt zu verbessern, indem ich die Eingabe von Buchstaben anstelle von ganzen Wörtern ermögliche.
+
+Arbeitspaket 3 und 4: Ich plane, ein Portfolio für das Modul 431 in Mahara zu erstellen.
