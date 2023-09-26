@@ -45,3 +45,11 @@ ich bin wie geplant vorgegangen mein Programm habe ich verbessert und jetzt sieh
 Arbeitspakete 1 bis 4: ich werde an Modul 431 weiterarbeiten da wir es nächste Woche abgeben muss
 Heute könnte ich leider nicht programieren da ich nur die Aufgaben von Modul 431 gemacht habe.die Aufgabe 1726 habe ch fertig gemacht und abgegeben und die Aufgabe 1728 habe ich fast fertig gemacht.
 
+
+____________________________________________________________________________________________________________________________________________________________________
+
+
+## Abschluss von 14.8 bis 30.9
+ich finde dass ich in diesem Zeit sehr geplannt und gut gearbeitet habe und ich habe 3 Progeramme programmiert welche alle gut funktionieren aber mein code könnte sehr sauberer sein. ich werde in die neue Lernperiode versuchen, meine Probleme möglishst selber lösen und nicht die toutorials zuschauen
+
+
