@@ -35,11 +35,13 @@ Ich habe dieses Projekt ein wenig unterschätzt. Anfangs schien es einfacher zu 
 
 ## Arbeitspakete für 19.9.2023
 Arbeitspaket 1 und 2: Ich werde versuchen, das vorherige Projekt zu verbessern, indem ich die Eingabe von Buchstaben anstelle von ganzen Wörtern ermögliche.
-
 Arbeitspaket 3 und 4: Ich plane, ein Portfolio für das Modul 431 in Mahara zu erstellen.
+
 ich bin wie geplant vorgegangen mein Programm habe ich verbessert und jetzt sieht es ziemlich sauberer aus. ich habe auch portofolio in 431 erstellt und darüber geschriben.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Arbeitspakete für 26.09.2023
-Arbeitspakete 1 bis 4: ich werde an Moodle 431 weiterarbeiten da wir es nächste Woche abgeben muss
+Arbeitspakete 1 bis 4: ich werde an Modul 431 weiterarbeiten da wir es nächste Woche abgeben muss
+Heute könnte ich leider nicht programieren da ich nur die Aufgaben von Modul 431 gemacht habe.die Aufgabe 1726 habe ch fertig gemacht und abgegeben und die Aufgabe 1728 habe ich fast fertig gemacht.
+
