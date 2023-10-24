@@ -50,6 +50,6 @@ ________________________________________________________________________________
 
 
 ## Abschluss von 14.8 bis 30.9
-ich finde dass ich in diesem Zeit sehr geplannt und gut gearbeitet habe und ich habe 3 Progeramme programmiert welche alle gut funktionieren aber mein code könnte sehr sauberer sein. ich werde in die neue Lernperiode versuchen, meine Probleme möglishst selber lösen und nicht die toutorials zuschauen
+ich finde, dass ich in dieser Zeit sehr geplant und effizient gearbeitet habe. Ich habe drei Programme programmiert, die alle gut funktionieren, jedoch könnte mein Code noch sauberer sein. In der kommenden Lernphase werde ich versuchen, meine Probleme möglichst eigenständig zu lösen, anstatt ständig auf Tutorials zurückzugreifen.
 
 
